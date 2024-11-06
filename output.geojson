@@ -1,0 +1,757 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35789413",
+                "feeder_name": "CERAMIC",
+                "substation": "Abbatoir",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.908613,
+                    8.463456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35789375",
+                "feeder_name": "NBC",
+                "substation": "Abbatoir",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.908613,
+                    8.463456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35789417",
+                "feeder_name": "ZAWACHIKI",
+                "substation": "Abbatoir",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.908613,
+                    8.463456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788823",
+                "feeder_name": "GWARZO ROAD",
+                "substation": "BUK NEW SITE",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.966403,
+                    8.434169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788811",
+                "feeder_name": "NEWSITE",
+                "substation": "BUK NEW SITE",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.966403,
+                    8.434169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788781",
+                "feeder_name": "BACHIRAWA",
+                "substation": "BUKAVU BARRACKS",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.029665,
+                    8.509487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788792",
+                "feeder_name": "FANISAU",
+                "substation": "BUKAVU BARRACKS",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.029665,
+                    8.509487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788777",
+                "feeder_name": "FEDARAL SECRETARIATE",
+                "substation": "BUKAVU BARRACKS",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.029665,
+                    8.509487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788809",
+                "feeder_name": "NOMANS LAND",
+                "substation": "BUKAVU BARRACKS",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.029665,
+                    8.509487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788808",
+                "feeder_name": "ORTHOPAEDIC",
+                "substation": "BUKAVU BARRACKS",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.029665,
+                    8.509487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35789383",
+                "feeder_name": "DAWANAU",
+                "substation": "BUKAVU BARRACKS",
+                "feeder_type": "33KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.029665,
+                    8.509487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35789397",
+                "feeder_name": "PANSHEKARA",
+                "substation": "CHALLAWA",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.88925,
+                    8.457532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35789329",
+                "feeder_name": "WATER PLANT",
+                "substation": "CHALLAWA",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.88925,
+                    8.457532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35789097",
+                "feeder_name": "AJASA",
+                "substation": "DAN AGUNDI",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.927109,
+                    8.522831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35780972",
+                "feeder_name": "CITY",
+                "substation": "DAN AGUNDI",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.927109,
+                    8.522831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35789092",
+                "feeder_name": "IBRAHIM TAIWO RD",
+                "substation": "DAN AGUNDI",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.927109,
+                    8.522831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35789038",
+                "feeder_name": "KOFAR NAISA",
+                "substation": "DAN AGUNDI",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.927109,
+                    8.522831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788986",
+                "feeder_name": "KOFAR NASARAWA",
+                "substation": "DAN AGUNDI",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.927109,
+                    8.522831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788782",
+                "feeder_name": "BELLO DANDAGO",
+                "substation": "GIDAN RADIO",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.994725,
+                    8.531585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35789398",
+                "feeder_name": "CHIRANCI",
+                "substation": "GONGONI",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.951584,
+                    8.495272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35789408",
+                "feeder_name": "DALA FOOD",
+                "substation": "GONGONI",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.951584,
+                    8.495272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35789399",
+                "feeder_name": "JAEN",
+                "substation": "GONGONI",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.951584,
+                    8.495272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788667",
+                "feeder_name": "MUNDADU",
+                "substation": "GONGONI",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.951584,
+                    8.495272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788783",
+                "feeder_name": "ABUJA",
+                "substation": "IDH",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.013259,
+                    8.52633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788814",
+                "feeder_name": "FAGGE",
+                "substation": "IDH",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.013259,
+                    8.52633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788804",
+                "feeder_name": "GWAMMAJA",
+                "substation": "IDH",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.013259,
+                    8.52633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788798",
+                "feeder_name": "KOKI",
+                "substation": "IDH",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.013259,
+                    8.52633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788829",
+                "feeder_name": "SABON GARI",
+                "substation": "IDH",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.013259,
+                    8.52633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788822",
+                "feeder_name": "TALAMIZ",
+                "substation": "JOGANA",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.013755,
+                    8.613346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788815",
+                "feeder_name": "TSAMIYA",
+                "substation": "JOGANA",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.013755,
+                    8.613346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788630",
+                "feeder_name": "TOKARAWA",
+                "substation": "JOGANA",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.013755,
+                    8.613346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788886",
+                "feeder_name": "DAN LADI NA SIDI",
+                "substation": "MARIRI",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.940116,
+                    8.618616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788856",
+                "feeder_name": "FARAWA",
+                "substation": "MARIRI",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.940116,
+                    8.618616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788788",
+                "feeder_name": "MAIDUGURI ROAD",
+                "substation": "MARIRI",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.940116,
+                    8.618616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35789434",
+                "feeder_name": "MASARAUTA",
+                "substation": "NAIBAWA",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.51819,
+                    8.548567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35789431",
+                "feeder_name": "YANLEMO",
+                "substation": "NAIBAWA",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.51819,
+                    8.548567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35789200",
+                "feeder_name": "AIRPORT ROAD",
+                "substation": "PRP",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.035295,
+                    8.539789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788824",
+                "feeder_name": "KAURA GOJE",
+                "substation": "PRP",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.035295,
+                    8.539789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35789443",
+                "feeder_name": "MAKAMA",
+                "substation": "WUDIL",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.801386,
+                    8.849655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788863",
+                "feeder_name": "WUDIL COMMERCIAL",
+                "substation": "WUDIL",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.801386,
+                    8.849655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788802",
+                "feeder_name": "HAUSAWA",
+                "substation": "ZARIA ROAD",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.967005,
+                    8.550836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788867",
+                "feeder_name": "HOTORO",
+                "substation": "ZARIA ROAD",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.967005,
+                    8.550836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788852",
+                "feeder_name": "KARKASARA",
+                "substation": "ZARIA ROAD",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.967005,
+                    8.550836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788869",
+                "feeder_name": "KUNDILA",
+                "substation": "ZARIA ROAD",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.967005,
+                    8.550836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788806",
+                "feeder_name": "MARHABA",
+                "substation": "ZARIA ROAD",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.967005,
+                    8.550836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788776",
+                "feeder_name": "SALLARI",
+                "substation": "ZARIA ROAD",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.967005,
+                    8.550836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "meter_no": "35788868",
+                "feeder_name": "UNGUWA UKU",
+                "substation": "ZARIA ROAD",
+                "feeder_type": "11KV FEEDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.967005,
+                    8.550836
+                ]
+            }
+        }
+    ]
+}
